@@ -1,0 +1,1320 @@
+[
+    {
+        "timestamp": "2025-02-25T18:45:19.509951",
+        "objects": [
+            {
+                "x": 262,
+                "y": 122,
+                "width": 13,
+                "height": 41,
+                "temperature": 78.7
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 75.2
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.592060",
+        "objects": [
+            {
+                "x": 262,
+                "y": 122,
+                "width": 13,
+                "height": 40,
+                "temperature": 78.2
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 74.5
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.610707",
+        "objects": [
+            {
+                "x": 262,
+                "y": 123,
+                "width": 13,
+                "height": 39,
+                "temperature": 77.1
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 73.6
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.643581",
+        "objects": [
+            {
+                "x": 262,
+                "y": 122,
+                "width": 13,
+                "height": 40,
+                "temperature": 77.1
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 73.6
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.675895",
+        "objects": [
+            {
+                "x": 263,
+                "y": 123,
+                "width": 12,
+                "height": 39,
+                "temperature": 77.6
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 73.7
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.710874",
+        "objects": [
+            {
+                "x": 262,
+                "y": 124,
+                "width": 13,
+                "height": 37,
+                "temperature": 77.4
+            },
+            {
+                "x": 32,
+                "y": 95,
+                "width": 47,
+                "height": 113,
+                "temperature": 67.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 73.7
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.742402",
+        "objects": [
+            {
+                "x": 263,
+                "y": 123,
+                "width": 12,
+                "height": 39,
+                "temperature": 76.9
+            },
+            {
+                "x": 31,
+                "y": 95,
+                "width": 48,
+                "height": 113,
+                "temperature": 66.6
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 73.3
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.772510",
+        "objects": [
+            {
+                "x": 263,
+                "y": 123,
+                "width": 12,
+                "height": 38,
+                "temperature": 76.4
+            },
+            {
+                "x": 31,
+                "y": 95,
+                "width": 48,
+                "height": 113,
+                "temperature": 65.9
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 72.6
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.809209",
+        "objects": [
+            {
+                "x": 263,
+                "y": 123,
+                "width": 12,
+                "height": 38,
+                "temperature": 76.4
+            },
+            {
+                "x": 31,
+                "y": 95,
+                "width": 48,
+                "height": 113,
+                "temperature": 66.0
+            },
+            {
+                "x": 277,
+                "y": 64,
+                "width": 36,
+                "height": 114,
+                "temperature": 72.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 72.6
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.845410",
+        "objects": [
+            {
+                "x": 263,
+                "y": 123,
+                "width": 12,
+                "height": 39,
+                "temperature": 76.1
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 72.6
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.877967",
+        "objects": [
+            {
+                "x": 262,
+                "y": 123,
+                "width": 13,
+                "height": 32,
+                "temperature": 76.6
+            },
+            {
+                "x": 31,
+                "y": 93,
+                "width": 49,
+                "height": 114,
+                "temperature": 65.9
+            },
+            {
+                "x": 279,
+                "y": 64,
+                "width": 34,
+                "height": 114,
+                "temperature": 72.8
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 72.6
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.926693",
+        "objects": [
+            {
+                "x": 262,
+                "y": 123,
+                "width": 11,
+                "height": 32,
+                "temperature": 76.6
+            },
+            {
+                "x": 279,
+                "y": 64,
+                "width": 34,
+                "height": 114,
+                "temperature": 71.5
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 71.6
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.956339",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 37,
+                "temperature": 76.4
+            },
+            {
+                "x": 279,
+                "y": 64,
+                "width": 34,
+                "height": 114,
+                "temperature": 71.5
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 71.6
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:19.991635",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 30,
+                "temperature": 77.8
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 71.8
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 71.5
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.020747",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 37,
+                "temperature": 76.5
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 71.8
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 71.5
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.045876",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 36,
+                "temperature": 75.8
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.079751",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 31,
+                "temperature": 76.8
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 71.1
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 71.0
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.122106",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 30,
+                "temperature": 77.0
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 71.1
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 71.0
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.162025",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 31,
+                "temperature": 76.7
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.9
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 71.0
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.180316",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 30,
+                "temperature": 75.9
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.3
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.203118",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 29,
+                "temperature": 76.1
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.3
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.249995",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 29,
+                "temperature": 76.2
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.4
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.285027",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 30,
+                "temperature": 75.9
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.4
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.321828",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 30,
+                "temperature": 75.9
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.5
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.348508",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 30,
+                "temperature": 75.9
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.5
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.383687",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 31,
+                "temperature": 75.9
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.2
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.7
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.419328",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 30,
+                "temperature": 76.1
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.2
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.7
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.445451",
+        "objects": [
+            {
+                "x": 262,
+                "y": 124,
+                "width": 10,
+                "height": 26,
+                "temperature": 74.3
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.2
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.481241",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 30,
+                "temperature": 76.1
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.2
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.512577",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 29,
+                "temperature": 76.2
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.2
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.9
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.550253",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 8,
+                "height": 26,
+                "temperature": 75.4
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.2
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.9
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.584745",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 9,
+                "height": 26,
+                "temperature": 75.1
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.2
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.9
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.625555",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 10,
+                "height": 30,
+                "temperature": 76.1
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.2
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.9
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.654329",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 9,
+                "height": 25,
+                "temperature": 75.3
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.2
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.9
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.691220",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 8,
+                "height": 26,
+                "temperature": 75.3
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.725018",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 9,
+                "height": 26,
+                "temperature": 75.1
+            },
+            {
+                "x": 152,
+                "y": 105,
+                "width": 30,
+                "height": 17,
+                "temperature": 75.3
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.747823",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 9,
+                "height": 25,
+                "temperature": 75.1
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.779162",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 29,
+                "temperature": 76.1
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.813584",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 9,
+                "height": 25,
+                "temperature": 75.2
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.7
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.849356",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 29,
+                "temperature": 76.1
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.7
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.881765",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 29,
+                "temperature": 76.2
+            },
+            {
+                "x": 153,
+                "y": 105,
+                "width": 29,
+                "height": 17,
+                "temperature": 75.2
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.915385",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 30,
+                "temperature": 75.9
+            },
+            {
+                "x": 153,
+                "y": 106,
+                "width": 29,
+                "height": 16,
+                "temperature": 76.0
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.948648",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 30,
+                "temperature": 75.9
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:20.993792",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 29,
+                "temperature": 76.0
+            },
+            {
+                "x": 153,
+                "y": 105,
+                "width": 29,
+                "height": 17,
+                "temperature": 75.3
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:21.028119",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 29,
+                "temperature": 76.1
+            },
+            {
+                "x": 153,
+                "y": 105,
+                "width": 29,
+                "height": 17,
+                "temperature": 75.4
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 69.9
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:21.053743",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 29,
+                "temperature": 76.1
+            },
+            {
+                "x": 153,
+                "y": 105,
+                "width": 29,
+                "height": 17,
+                "temperature": 75.4
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 69.9
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.8
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:21.092297",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 8,
+                "height": 26,
+                "temperature": 75.3
+            },
+            {
+                "x": 152,
+                "y": 105,
+                "width": 30,
+                "height": 17,
+                "temperature": 75.2
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 70.9
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:21.119138",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 10,
+                "height": 29,
+                "temperature": 76.1
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 71.0
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:21.155336",
+        "objects": [
+            {
+                "x": 263,
+                "y": 125,
+                "width": 9,
+                "height": 25,
+                "temperature": 75.1
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 71.1
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:21.182017",
+        "objects": [
+            {
+                "x": 263,
+                "y": 124,
+                "width": 9,
+                "height": 26,
+                "temperature": 75.0
+            },
+            {
+                "x": 280,
+                "y": 64,
+                "width": 33,
+                "height": 114,
+                "temperature": 70.0
+            },
+            {
+                "x": 0,
+                "y": 0,
+                "width": 320,
+                "height": 240,
+                "temperature": 71.2
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-02-25T18:45:21.218808",
+        "objects": [
+            {
+                "x": 0,
+                "y": 206,
+                "width": 53,
+                "height": 34,
+                "temperature": 72.1
+            },
+            {
+                "x": 263
