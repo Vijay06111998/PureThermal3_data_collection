@@ -10,7 +10,7 @@ cap.set(cv2.CAP_PROP_FRAME_WIDTH, 160)
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 120)
 
 # Set the duration for the camera to run (in seconds)
-run_duration = 10  # Change this value to set the desired run time
+run_duration = 120  # Change this value to set the desired run time
 start_time = time.time()  # Record the start time
 
 while True:
@@ -65,7 +65,7 @@ while True:
     # Exit on 'q' press
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
-
+####
 # Cleanup
 cap.release()
 cv2.destroyAllWindows()
